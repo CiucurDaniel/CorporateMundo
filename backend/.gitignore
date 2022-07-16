@@ -18,7 +18,6 @@
 
 # Go workspace file
 go.work
-Footer
-© 2022 GitHub, Inc.
+
 
 config.json # API_KEY IS HERE
